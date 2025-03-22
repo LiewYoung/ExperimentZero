@@ -4,7 +4,7 @@ Just a Project to fix my physical homework😅
 
 ## How to use?
 
-Replace the 'WorkData.xlsx' by your File
+Replace the `WorkData.xlsx` by your File
 
 ## Full Step
 
@@ -12,9 +12,9 @@ Replace the 'WorkData.xlsx' by your File
 
 -Source your venv
 
--Use 'pip install -r requirements.txt'
+-Use `pip install -r requirements.txt`
 
--Put your 'xlsx' 
+-Put your `xlsx`
 
 -Press Enter
 
