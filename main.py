@@ -2,6 +2,11 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
+'''
+Author: Liew.Y(Young)
+Date: 2025-3-22
+Change: Add method to save png
+'''
 
 df=pd.read_excel('WorkData.xlsx')
 x=df['H'].values
