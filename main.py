@@ -16,8 +16,11 @@ plt.gca().spines['left'].set_position(('data',0))
 #设置标题
 plt.title('Hysteresis Curve of Magnetization')
 
+#x,y轴数据，线段的颜色
 plt.plot(x,y,marker='o',linestyle='-',color='blue')
 
+#图片保存
+plt.savefig('Yours.png')
 
 plt.show()
 
